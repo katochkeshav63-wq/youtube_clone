@@ -17,7 +17,7 @@ export default function Navbar() {
           onClick={() => navigate("/")}
           className="text-xl font-semibold text-white cursor-pointer tracking-tight"
         >
-          <span className="text-red-500">You</span>Tube
+          <span className="text-red-500">Tube</span>X
         </h1>
       </div>
 
